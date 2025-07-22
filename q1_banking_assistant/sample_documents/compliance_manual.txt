@@ -1,0 +1,39 @@
+
+REGULATORY COMPLIANCE MANUAL
+
+1. ANTI-MONEY LAUNDERING (AML) REQUIREMENTS
+   - Customer Due Diligence (CDD) required for all accounts
+   - Suspicious Activity Reports (SAR) must be filed within 30 days
+   - Transaction monitoring for amounts over $10,000
+   - Annual AML training for all employees
+
+2. KNOW YOUR CUSTOMER (KYC) PROCEDURES
+   - Verify customer identity with government-issued ID
+   - Collect proof of address (utility bill, bank statement)
+   - Risk assessment based on customer profile
+   - Enhanced due diligence for high-risk customers
+
+3. FAIR LENDING COMPLIANCE
+   - Equal Credit Opportunity Act (ECOA) compliance
+   - No discrimination based on race, color, religion, national origin, sex, marital status, age
+   - Fair lending monitoring and reporting
+   - Regular fair lending audits
+
+4. DATA PRIVACY REQUIREMENTS
+   - Gramm-Leach-Bliley Act (GLBA) compliance
+   - Customer privacy notices required
+   - Secure handling of customer information
+   - Annual privacy training for employees
+
+Table 2.1: Compliance Deadlines
+| Requirement | Frequency | Deadline | Responsible Party |
+|-------------|-----------|----------|-------------------|
+| AML Training | Annual    | Dec 31   | HR Department     |
+| SAR Filing  | As needed | 30 days  | Compliance Team   |
+| Privacy Audit| Annual    | Jun 30   | Internal Audit    |
+| KYC Review  | Ongoing   | 90 days  | Branch Managers   |
+
+PENALTIES FOR NON-COMPLIANCE:
+- AML violations: Up to $250,000 per violation
+- Fair lending violations: Up to $10,000 per day
+- Privacy violations: Up to $100 per violation per day

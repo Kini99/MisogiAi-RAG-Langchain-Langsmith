@@ -1,0 +1,28 @@
+# Banking AI Assistant Environment Variables
+# Copy this file to .env and fill in your values
+
+# Required: Google AI API Key
+# Get your key from: https://makersuite.google.com/app/apikey
+GOOGLE_API_KEY=your_google_api_key_here
+
+# Optional: Vector Database Settings
+CHROMA_PERSIST_DIRECTORY=./chroma_db
+CHROMA_COLLECTION_NAME=banking_documents
+
+# Optional: Document Processing Settings
+CHUNK_SIZE=1000
+CHUNK_OVERLAP=200
+MAX_CHUNKS_PER_DOCUMENT=100
+
+# Optional: LLM Settings
+MODEL_NAME=gemini-2.0-flash-exp
+TEMPERATURE=0.1
+MAX_TOKENS=4000
+
+# Optional: Embedding Settings
+EMBEDDING_MODEL=sentence-transformers/all-MiniLM-L6-v2
+
+# Optional: API Settings
+API_HOST=0.0.0.0
+API_PORT=8000
+DEBUG=false 

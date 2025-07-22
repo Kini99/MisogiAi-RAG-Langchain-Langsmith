@@ -1,0 +1,31 @@
+
+CURRENT INTEREST RATES - EFFECTIVE JANUARY 2024
+
+DEPOSIT ACCOUNTS:
+| Account Type | Minimum Balance | Interest Rate | APY |
+|--------------|-----------------|---------------|-----|
+| Savings      | $100           | 0.50%         | 0.50% |
+| Money Market | $2,500         | 1.25%         | 1.26% |
+| CD 12-month  | $1,000         | 2.75%         | 2.78% |
+| CD 24-month  | $1,000         | 3.00%         | 3.04% |
+| CD 36-month  | $1,000         | 3.25%         | 3.30% |
+
+LOAN RATES:
+| Loan Type | Credit Score | Interest Rate | APR |
+|-----------|--------------|---------------|-----|
+| Personal  | 750+         | 8.50%         | 8.75% |
+| Personal  | 650-749      | 10.50%        | 10.80% |
+| Personal  | 600-649      | 12.50%        | 12.85% |
+| Mortgage  | 760+         | 4.25%         | 4.35% |
+| Mortgage  | 700-759      | 4.50%         | 4.60% |
+| Mortgage  | 650-699      | 5.00%         | 5.15% |
+| Business  | 680+         | 6.50%         | 6.75% |
+| Business  | 650-679      | 8.50%         | 8.80% |
+| Business  | 620-649      | 12.00%        | 12.35% |
+
+FEES:
+- Monthly Maintenance Fee: $12 (waived with $1,500 minimum balance)
+- Overdraft Fee: $35
+- Stop Payment Fee: $30
+- Wire Transfer Fee: $25 domestic, $45 international
+- Cashier's Check Fee: $10
